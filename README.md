@@ -1,2 +1,2 @@
-# Responsive Çalışması 2
+# Freelancer
 css çalışması 
